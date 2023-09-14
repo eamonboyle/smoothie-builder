@@ -1,4 +1,4 @@
-# My Website
+# Smoothie Builder
 
 This is a little project I'm doing for fun, nothing too serious just building on skills on my own time.
 
